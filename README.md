@@ -1,5 +1,3 @@
-# OJT-Blog
-
 # OJT Blog – Internship at BU HealthSync
 
 Welcome to my official On-the-Job Training (OJT) blog, created as part of my internship requirement at **BU HealthSync**.
