@@ -26,6 +26,3 @@ The purpose of this blog is to:
 - **Platform:** GitHub Pages
 - **Site Generator:** Jekyll (with a simple blog theme)
 - **Content Format:** Markdown (`.md`)
-
-## 🗂 Blog Structure
-
